@@ -15,8 +15,8 @@ def output_array(array)
    puts count
  end
 end 
-output_array(["I","l"])
+
  
 def return_string_array(array)
-  
+  puts array
 end
