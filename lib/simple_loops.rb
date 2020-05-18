@@ -18,6 +18,5 @@ end
 
  
 def return_string_array(array)
-  puts array
+  p array
 end
-return_string_array(["3","4","5"])
