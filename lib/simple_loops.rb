@@ -7,7 +7,7 @@ end
 def loop_message_n_times(string, integer)
  integer.times {puts string} 
 end 
-loop_message_n_times("yes",3)
+
 
 
 def output_array(array)
@@ -15,7 +15,7 @@ def output_array(array)
    puts count
  end
 end 
-
+output_array(["I","l"])
  
 def return_string_array(array)
   
