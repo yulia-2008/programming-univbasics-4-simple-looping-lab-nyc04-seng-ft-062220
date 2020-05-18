@@ -20,3 +20,4 @@ end
 def return_string_array(array)
   puts array
 end
+return_string_array(3,4,5)
