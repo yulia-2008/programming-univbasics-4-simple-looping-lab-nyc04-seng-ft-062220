@@ -17,9 +17,3 @@ def output_array(array)
 end 
 
  
-def return_string_array(array)
-   array.each do|count|
-   puts count
- end
-end
-return_string_array(["I", "l"])
