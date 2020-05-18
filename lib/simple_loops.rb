@@ -22,3 +22,4 @@ def return_string_array(array)
    puts count
  end
 end
+return_string_array(["I", "l"])
