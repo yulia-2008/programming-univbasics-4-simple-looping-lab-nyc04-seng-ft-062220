@@ -13,8 +13,7 @@ def output_array(array)
   array.each do|count|
    print count
  end
-end 
-output_array("I", "me") 
+end output_array(["I", "me"]) 
  
 def return_string_array 
   
