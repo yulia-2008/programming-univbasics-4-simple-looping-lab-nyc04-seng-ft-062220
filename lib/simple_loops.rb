@@ -14,7 +14,7 @@ def output_array(array)
    print count
  end
 end 
- 
+output_array("I", "me") 
  
 def return_string_array 
   
