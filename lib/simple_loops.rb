@@ -11,9 +11,9 @@ end
 
 
 def output_array(array)
-  array.each do|count|
-   puts count
+  
+   puts array
  end
-end 
+output_array(["i", "j"])
 
  
