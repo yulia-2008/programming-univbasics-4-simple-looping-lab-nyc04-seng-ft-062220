@@ -18,5 +18,7 @@ end
 
  
 def return_string_array(array)
-  p array
+   array.each do|count|
+   puts count
+ end
 end
