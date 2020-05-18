@@ -11,9 +11,8 @@ end
 
 
 def output_array(array)
-  
-   puts array
+  puts array
  end
-output_array(["i", "j"])
+
 
  
